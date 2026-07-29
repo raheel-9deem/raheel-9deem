@@ -1,10 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src="assets/banner-header.svg" width="100%"/>
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1F6FEB&height=200&section=header&text=Raheel%20Nadeem&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Freelance%20WordPress%20Developer%20%7C%20SEO%20%26%20Automation&descAlignY=55&descSize=18" width="100%"/>
->>>>>>> 21e7c45067385e712c42f5981a022d4dde62df9c
 
 <a href="https://github.com/raheel-9deem">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Raheel+%F0%9F%91%8B;Freelance+WordPress+Developer;BS+CS+Student+%40+Lahore+Leads+University;Founder+of+Byte+Wave+%26+Astro+Bytes;Automating+SEO+with+n8n+%2B+AI" alt="Typing SVG" />
@@ -82,11 +78,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=raheel-9deem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Raheel's GitHub Stats" width="49%"/>
-<<<<<<< HEAD
 <img src="https://streak-stats.demolab.com/?user=raheel-9deem&theme=tokyonight&hide_border=true" alt="Raheel's Streak Stats" width="49%"/>
-=======
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raheel-9deem&theme=tokyonight&hide_border=true" alt="Raheel's Streak Stats" width="49%"/>
->>>>>>> 21e7c45067385e712c42f5981a022d4dde62df9c
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-9deem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
 
@@ -124,11 +116,7 @@
 
 </div>
 
-<<<<<<< HEAD
 <!-- Note: this snake animation only appears once .github/workflows/snake.yml has run at least once in the raheel-9deem/raheel-9deem repo. -->
-=======
-> ⚠️ Ye snake animation tab hi dikhega jab tum ne `.github/workflows/snake.yml` workflow apne `raheel-9deem/raheel-9deem` repo mein add ki ho — file niche di gayi hai.
->>>>>>> 21e7c45067385e712c42f5981a022d4dde62df9c
 
 <br/>
 
@@ -137,23 +125,13 @@
 <div align="center">
 
 <a href="https://raheelnadeem.online"><img src="https://img.shields.io/badge/Website-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raheel-nadeem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/iraheel_nadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
-
-<<<<<<< HEAD
-<!-- Note: LinkedIn and Instagram links are placeholders (#) — replace with actual profile URLs. -->
 
 <br/>
 
 <img src="assets/banner-footer.svg" width="100%"/>
-=======
-> ✏️ LinkedIn aur Instagram wale badges abhi placeholder (`#`) hain — apne actual profile links bhej do, main update kar dunga.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0d1117&height=100&section=footer" width="100%"/>
->>>>>>> 21e7c45067385e712c42f5981a022d4dde62df9c
 
 </div>
