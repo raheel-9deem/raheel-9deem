@@ -19,29 +19,27 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Stats Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: "username=raheel-9deem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+          options: username=raheel-9deem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: "username=raheel-9deem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+          options: username=raheel-9deem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Streak Stats
-        uses: be-next/github-streak-stats-action@v1
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          username: raheel-9deem
+          options: user=raheel-9deem&theme=tokyonight&hide_border=true&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile/streak.svg
-          theme: dark
-          hide-border: true
 
       - name: Generate Trophy Card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
@@ -53,7 +51,7 @@ jobs:
       - name: Commit and push cards
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update profile cards" || exit 0
           git push
