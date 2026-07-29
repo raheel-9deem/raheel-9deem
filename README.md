@@ -77,32 +77,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raheel-9deem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Raheel's GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=raheel-9deem&theme=tokyonight&hide_border=true" alt="Raheel's Streak Stats" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-9deem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
-
-</div>
-
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raheel-9deem&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Public%20Repos&query=%24.public_repos&color=00F7FF&style=for-the-badge&logo=github" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Followers&query=%24.followers&color=1F6FEB&style=for-the-badge&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Following&query=%24.following&color=00F7FF&style=for-the-badge&logo=github" alt="Following"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raheel-9deem&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
+<!-- Note: these badges are powered by shields.io's own dynamic-JSON engine reading straight from the GitHub API — no separate Action/workflow needed, and shields.io has been reliable throughout this whole README. -->
 
 <br/>
 
