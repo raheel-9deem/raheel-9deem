@@ -215,10 +215,10 @@ A growing collection of ML experiments and notebooks documenting techniques, dat
 
 ## 📈 GitHub Coding Journey
 
-**Full GitHub history · exact commit dates · exact commit counts**
+**Full GitHub history · GitHub-style contribution calendar · exact daily commit counts**
 
 <!--START_ACTIVITY-->
-<img src="assets/github-activity.svg" width="100%" alt="GitHub activity by date"/>
+<img src="assets/github-contributions.svg" width="100%" alt="GitHub activity by date"/>
 <!--END_ACTIVITY-->
 
 The activity visualization is generated automatically by GitHub Actions from public repository commit history. It is designed to keep the profile honest and current instead of using a manually maintained contribution table.

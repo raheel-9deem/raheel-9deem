@@ -11,20 +11,35 @@ permissions:
 jobs:
   update-profile-data:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-      - name: Generate activity and overview
+      - name: Generate GitHub-style contribution calendar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: raheel-9deem
-        run: python scripts/generate_activity.py
+        run: |
+          python scripts/generate_activity.py
 
-      - name: Commit generated assets
+      - name: Verify generated files
+        run: |
+          test -s assets/github-contributions.svg
+          test -s assets/github-overview.svg
+          ls -lh assets/github-contributions.svg assets/github-overview.svg
+
+      - name: Commit generated SVG files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-activity.svg assets/github-overview.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub profile data"
-          git push
+          git add assets/github-contributions.svg assets/github-overview.svg
+
+          if git diff --cached --quiet; then
+            echo "No profile data changes."
+          else
+            git commit -m "chore: update GitHub contribution calendar"
+            git push origin HEAD:main
+          fi
