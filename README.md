@@ -1,118 +1,281 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%"/>
+<img src="assets/banner-header.svg" width="100%" alt="Raheel Nadeem - AI & Automation Developer"/>
 
 <a href="https://github.com/raheel-9deem">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Raheel+%F0%9F%91%8B;Freelance+WordPress+Developer;BS+CS+Student+%40+Lahore+Leads+University;Founder+of+Byte+Wave+%26+Astro+Bytes;Automating+SEO+with+n8n+%2B+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Automation+Developer;Python+%7C+Machine+Learning+%7C+NLP;n8n+%7C+Workflow+Automation;WordPress+%7C+SEO+%7C+Web+Development;Building%2C+Learning%2C+Experimenting%2C+Improving" alt="Animated skills"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=raheel-9deem&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/raheel-9deem?style=for-the-badge&color=1F6FEB&logo=github&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=raheel-9deem&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/raheel-9deem?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🌐 Freelance **WordPress Developer** — building and optimizing sites end-to-end
-- 🎓 **BS Computer Science** student (lateral entry) at **Lahore Leads University**
-- 🚀 Founder of **[Byte Wave](https://raheelnadeem.online)** — SEO & WordPress services/content brand
-- 🔭 Founder of **Astro Bytes** — science communication brand
-- ⚙️ Building automation pipelines with **n8n**, and shipping tools with **AI-assisted coding** (Claude Code, Lovable.dev)
-- 📍 Based in **Lahore, Pakistan**
-- 💬 Ask me about **WordPress, SEO, n8n automation, or Python**
+I'm **Raheel Nadeem**, an **AI & Automation Developer** and BS Computer Science student focused on learning by building.
 
-<br/>
+My current strongest areas are **WordPress, SEO, and n8n automation**, while **Python, Machine Learning, and NLP are active learning areas**. Most of the work you see here is self-initiated: I build projects to learn, experiment, solve problems, and document my progress.
 
-## 🛠️ Tech Stack
+- 🎓 **BS Computer Science — 4th Semester**, Lahore Leads University
+- 🏫 **F.Sc Pre-Medical**, Govt. Graduate College Township, Lahore
+- 🌐 Strongest current skills: **WordPress, SEO, n8n**
+- 🐍 Currently learning: **Python, Machine Learning, NLP**
+- 🤖 Building with **AI-assisted development** as part of my learning workflow
+- 🧪 Projects are primarily **personal / self-initiated / open-source**
+- 💼 **No client work yet** — currently exploring opportunities to turn my skills into real-world work
+- 💰 **No project earnings yet** — the current goal is to learn, build, and pursue available opportunities
+- 🚀 Long term: build products or a business of my own when the right opportunity and resources align
+
+> **Build → Learn → Experiment → Improve → Earn → Build Something Bigger 🚀**
+
+---
+
+## 🧭 Learning Journey
+
+```text
+F.Sc Pre-Medical
+        ↓
+BS Computer Science
+        ↓
+WordPress + SEO
+        ↓
+n8n + Workflow Automation
+        ↓
+Python — Learning
+        ↓
+Machine Learning + NLP — Learning
+        ↓
+AI / ML Projects & Experiments
+        ↓
+AI-Assisted Development
+        ↓
+Build → Learn → Experiment → Improve
+```
+
+This is a learning journey, not a claim of mastery. I prefer showing **what I have actually built, what I am learning now, and what I am improving next**.
+
+---
+
+## 🧠 What I'm Building With
+
+### Languages
+
+<div align="center">
+<img src="https://cdn.simpleicons.org/python" width="48" height="48" title="Python" alt="Python"/>
+<img src="https://cdn.simpleicons.org/html5" width="48" height="48" title="HTML5" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/css" width="48" height="48" title="CSS" alt="CSS"/>
+<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" title="JavaScript" alt="JavaScript"/>
+</div>
+
+### AI / Machine Learning
+
+<div align="center">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" title="Scikit-learn" alt="Scikit-learn"/>
+<img src="https://cdn.simpleicons.org/jupyter" width="48" height="48" title="Jupyter Notebook" alt="Jupyter Notebook"/>
+<img src="https://cdn.simpleicons.org/python" width="48" height="48" title="Python / ML" alt="Python"/>
+</div>
+
+**Machine Learning · NLP · Scikit-learn · APIs · AI-assisted development**
+
+### Automation
+
+<div align="center">
+<img src="https://cdn.simpleicons.org/n8n" width="48" height="48" title="n8n" alt="n8n"/>
+<img src="https://cdn.simpleicons.org/postman" width="48" height="48" title="APIs / Postman" alt="APIs"/>
+</div>
+
+**n8n · Workflow Automation · APIs · Webhooks · Automation Pipelines**
+
+### Web
+
+<div align="center">
+<img src="https://cdn.simpleicons.org/wordpress" width="48" height="48" title="WordPress" alt="WordPress"/>
+<img src="https://cdn.simpleicons.org/html5" width="48" height="48" title="HTML5" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/css" width="48" height="48" title="CSS" alt="CSS"/>
+<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" title="JavaScript" alt="JavaScript"/>
+</div>
+
+**WordPress · Web Development · HTML · CSS · JavaScript**
+
+### SEO
+
+<div align="center">
+<img src="https://cdn.simpleicons.org/googleanalytics" width="48" height="48" title="Google Analytics" alt="Google Analytics"/>
+<img src="https://cdn.simpleicons.org/googlesearchconsole" width="48" height="48" title="Google Search Console" alt="Google Search Console"/>
+</div>
+
+**Keyword Research · Search Intent · On-Page SEO · Technical SEO · Content Optimization · SEO Auditing · Internal Linking · Search Performance**
+
+---
+
+## 🤖 AI & Developer Tools
 
 <div align="center">
 
-**Languages & Web**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-**Frameworks & CMS**
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-**DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-**AI Tools**
-
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lovable.dev-8A2BE2?style=for-the-badge&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/git" width="46" height="46" title="Git" alt="Git"/>
+<img src="https://cdn.simpleicons.org/github" width="46" height="46" title="GitHub" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="46" height="46" title="Claude Code" alt="Claude Code"/>
+<img src="https://cdn.simpleicons.org/openai" width="46" height="46" title="Codex / OpenAI" alt="Codex"/>
+<img src="https://cdn.simpleicons.org/lovable" width="46" height="46" title="Lovable" alt="Lovable"/>
+<img src="https://cdn.simpleicons.org/replit" width="46" height="46" title="Replit" alt="Replit"/>
+<img src="https://cdn.simpleicons.org/bolt" width="46" height="46" title="Bolt.new" alt="Bolt.new"/>
+<img src="https://cdn.simpleicons.org/jupyter" width="46" height="46" title="Jupyter Notebook" alt="Jupyter Notebook"/>
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity%20IDE-AI%20Development-555?style=flat-square" alt="Antigravity IDE"/>
+</p>
 
-## 🚧 Currently Working On
+---
 
-- 🔗 **n8n Blogger Pipeline** — automation that generates publish-ready SEO blog articles
-- 🧵 **Roman Urdu / Hinglish NLP Toolkit** — open-source Python NLP toolkit
-- 🧹 **deadcode-finder** — Python CLI to find unused imports/functions via AST
-- 🤖 **Resume Shortlisting Tool** — AI-based resume screening
-- 📊 **ML Portfolio** — comparing ML techniques on a single dataset, published on GitHub
+## ⭐ Featured Projects
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🤖 AI Resume Shortlisting
+
+AI-assisted resume screening project exploring automated candidate shortlisting and practical AI workflows.
+
+**Focus:** AI · Python · NLP · Resume Processing
+
+<a href="https://github.com/raheel-9deem/AI-Resume-Shortlisting_main">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 AI-based Disease Detection
+
+Machine-learning experimentation around disease prediction/classification using notebook-based development.
+
+**Focus:** ML · Python · Jupyter · Scikit-learn
+
+<a href="https://github.com/raheel-9deem/Ai-Disease-Detection">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Nebula Scientific Calculator
+
+A scientific calculator project built as a practical software-development experiment.
+
+**Focus:** Python · Application Development
+
+<a href="https://github.com/raheel-9deem/Nebula-Scientific-Calculator">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Machine Learning Notebooks
+
+A growing collection of ML experiments and notebooks documenting techniques, datasets, models, and learning progress.
+
+**Focus:** Python · ML · Jupyter · Scikit-learn
+
+<a href="https://github.com/raheel-9deem">Explore My Repositories →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔎 More Work
+
+| Area | Selected work |
+|---|---|
+| 🤖 AI / ML | AI Resume Shortlisting · AI Disease Detection · ML notebooks · CNN / regression experiments |
+| ⚙️ Automation | n8n Blogger Pipeline · workflow/API automation experiments |
+| 🔍 SEO | SEO Audit CLI · SEO automation and content-oriented experiments |
+| 🧰 Developer Tools | Deadcode Finder · README Translator · practical Python utilities |
+| 🌐 Web | WordPress and web-development experiments |
+| 🧩 Learning | DSA Questions · programming exercises and experiments |
+| 🛡️ Security / Networking | NetSentry and related experiments |
+
+[Explore all repositories →](https://github.com/raheel-9deem?tab=repositories)
+
+---
+
+## 📜 Certifications & Learning
+
+- 🏅 **WordPress — DigiSkills.pk**
+- 🏅 **SEO — DigiSkills.pk**
+- 🐍 **Python — Currently Learning**
+- 🤖 **Machine Learning — Currently Learning**
+
+> Certifications are listed only when earned; active learning areas are clearly marked separately.
+
+---
+
+## 📈 GitHub Coding Journey
+
+**Full GitHub history · exact commit dates · exact commit counts**
+
+<!--START_ACTIVITY-->
+<p align="center">
+  <img src="assets/github-activity.svg" width="100%" alt="GitHub activity by date"/>
+</p>
+<!--END_ACTIVITY-->
+
+The activity visualization is generated automatically by GitHub Actions from public repository commit history. It is designed to keep the profile honest and current instead of using a manually maintained contribution table.
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Public%20Repos&query=%24.public_repos&color=00F7FF&style=for-the-badge&logo=github" alt="Public Repos"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Followers&query=%24.followers&color=1F6FEB&style=for-the-badge&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraheel-9deem&label=Following&query=%24.following&color=00F7FF&style=for-the-badge&logo=github" alt="Following"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raheel-9deem&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-9deem&layout=compact&hide_border=true" height="165" alt="Top languages"/>
 
 </div>
 
-<!-- Note: these badges are powered by shields.io's own dynamic-JSON engine reading straight from the GitHub API — no separate Action/workflow needed, and shields.io has been reliable throughout this whole README. -->
+---
 
-<br/>
+## 🌱 Currently Learning
 
-## 🐍 Contribution Snake
+- 🐍 Python
+- 🤖 Machine Learning
+- 🧠 NLP
+- 🔌 AI / API integration
+- ⚙️ Advanced n8n automation
+- 🛠️ AI-assisted software development
+
+---
+
+## 🌐 Find Me Online
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/raheel-9deem/raheel-9deem/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
-<!--END_SECTION:snake-->
+<a href="https://raheelnadeem.online"><img src="https://cdn.simpleicons.org/googlechrome" width="42" height="42" title="Website" alt="Website"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raheel-nadeem/"><img src="https://cdn.simpleicons.org/linkedin" width="42" height="42" title="LinkedIn" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/iraheel_nadeem"><img src="https://cdn.simpleicons.org/instagram" width="42" height="42" title="Instagram" alt="Instagram"/></a>
+&nbsp;&nbsp;
+<a href="mailto:raheelnadeem@duck.com"><img src="https://cdn.simpleicons.org/maildotru" width="42" height="42" title="Email" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/raheel-9deem"><img src="https://cdn.simpleicons.org/github" width="42" height="42" title="GitHub" alt="GitHub"/></a>
 
 </div>
 
-<!-- Note: this snake animation only appears once .github/workflows/snake.yml has run at least once in the raheel-9deem/raheel-9deem repo. -->
-
 <br/>
-
-## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://raheelnadeem.online"><img src="https://img.shields.io/badge/Website-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/raheel-nadeem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/iraheel_nadeem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+**Learning in public. Building in public. Improving one project at a time. 🚀**
 
 </div>
 
-<br/>
-
-<img src="assets/banner-footer.svg" width="100%"/>
+<img src="assets/banner-footer.svg" width="100%" alt="Footer"/>
 
 </div>

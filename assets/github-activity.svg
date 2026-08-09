@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1000 160">
+<rect width="1000" height="160" rx="18" fill="#0d1117"/>
+<text x="500" y="68" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="22" font-weight="700">GitHub Coding Journey</text>
+<text x="500" y="98" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Run the GitHub Action to generate full-history exact-date activity.</text>
+</svg>
