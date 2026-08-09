@@ -3,6 +3,8 @@ name: Update GitHub Profile Data
 on:
   workflow_dispatch:
   schedule:
+    # Runs once every day. The script itself calculates the current
+    # rolling 365-day window, so the oldest day drops automatically.
     - cron: "17 0 * * *"
 
 permissions:
@@ -18,7 +20,7 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Generate GitHub-style contribution calendar
+      - name: Generate rolling 365-day contribution calendar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: raheel-9deem
@@ -31,15 +33,16 @@ jobs:
           test -s assets/github-overview.svg
           ls -lh assets/github-contributions.svg assets/github-overview.svg
 
-      - name: Commit generated SVG files
+      - name: Commit generated profile data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/github-contributions.svg assets/github-overview.svg
 
           if git diff --cached --quiet; then
             echo "No profile data changes."
           else
-            git commit -m "chore: update GitHub contribution calendar"
+            git commit -m "chore: update rolling GitHub activity"
             git push origin HEAD:main
           fi

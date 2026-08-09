@@ -215,7 +215,7 @@ A growing collection of ML experiments and notebooks documenting techniques, dat
 
 ## 📈 GitHub Coding Journey
 
-**Full GitHub history · GitHub-style contribution calendar · exact daily commit counts**
+**Rolling last 365 days · GitHub-style contribution calendar · exact daily commit counts**
 
 <!--START_ACTIVITY-->
 <img src="assets/github-contributions.svg" width="100%" alt="GitHub activity by date"/>
