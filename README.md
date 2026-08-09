@@ -117,20 +117,17 @@ This is a learning journey, not a claim of mastery. I prefer showing **what I ha
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/git" width="46" height="46" title="Git" alt="Git"/>
-<img src="https://cdn.simpleicons.org/github" width="46" height="46" title="GitHub" alt="GitHub"/>
-<img src="https://cdn.simpleicons.org/anthropic" width="46" height="46" title="Claude Code" alt="Claude Code"/>
-<img src="https://cdn.simpleicons.org/openai" width="46" height="46" title="Codex / OpenAI" alt="Codex"/>
-<img src="https://cdn.simpleicons.org/lovable" width="46" height="46" title="Lovable" alt="Lovable"/>
-<img src="https://cdn.simpleicons.org/replit" width="46" height="46" title="Replit" alt="Replit"/>
-<img src="https://cdn.simpleicons.org/bolt" width="46" height="46" title="Bolt.new" alt="Bolt.new"/>
-<img src="https://cdn.simpleicons.org/jupyter" width="46" height="46" title="Jupyter Notebook" alt="Jupyter Notebook"/>
+<a href="https://git-scm.com"><img src="assets/tools/git.svg" width="58" height="58" title="Git" alt="Git"/></a>
+<a href="https://github.com"><img src="assets/tools/github.svg" width="58" height="58" title="GitHub" alt="GitHub"/></a>
+<img src="assets/tools/claude.svg" width="58" height="58" title="Claude Code" alt="Claude Code"/>
+<img src="assets/tools/codex.svg" width="58" height="58" title="Codex" alt="Codex"/>
+<img src="assets/tools/lovable.svg" width="58" height="58" title="Lovable" alt="Lovable"/>
+<img src="assets/tools/replit.svg" width="58" height="58" title="Replit" alt="Replit"/>
+<img src="assets/tools/antigravity.svg" width="58" height="58" title="Antigravity IDE" alt="Antigravity IDE"/>
+<img src="assets/tools/bolt.svg" width="58" height="58" title="Bolt.new" alt="Bolt.new"/>
+<img src="assets/tools/jupyter.svg" width="58" height="58" title="Jupyter Notebook" alt="Jupyter Notebook"/>
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity%20IDE-AI%20Development-555?style=flat-square" alt="Antigravity IDE"/>
-</p>
 
 ---
 
@@ -221,9 +218,7 @@ A growing collection of ML experiments and notebooks documenting techniques, dat
 **Full GitHub history · exact commit dates · exact commit counts**
 
 <!--START_ACTIVITY-->
-<p align="center">
-  <img src="assets/github-activity.svg" width="100%" alt="GitHub activity by date"/>
-</p>
+<img src="assets/github-activity.svg" width="100%" alt="GitHub activity by date"/>
 <!--END_ACTIVITY-->
 
 The activity visualization is generated automatically by GitHub Actions from public repository commit history. It is designed to keep the profile honest and current instead of using a manually maintained contribution table.
@@ -232,12 +227,7 @@ The activity visualization is generated automatically by GitHub Actions from pub
 
 ## 📊 GitHub Overview
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raheel-9deem&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheel-9deem&layout=compact&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
+<img src="assets/github-overview.svg" width="100%" alt="GitHub overview"/>
 
 ---
 

@@ -1,4 +1,4 @@
-name: Update GitHub Activity
+name: Update GitHub Profile Data
 
 on:
   workflow_dispatch:
@@ -9,22 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  activity:
+  update-profile-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate activity visualization
+      - name: Generate activity and overview
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: raheel-9deem
         run: python scripts/generate_activity.py
 
-      - name: Commit updated activity
+      - name: Commit generated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-activity.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub activity"
+          git add assets/github-activity.svg assets/github-overview.svg
+          git diff --cached --quiet || git commit -m "chore: update GitHub profile data"
           git push
