@@ -3,12 +3,16 @@ name: Update GitHub Profile Data
 on:
   workflow_dispatch:
   schedule:
-    # Runs once every day. The script itself calculates the current
-    # rolling 365-day window, so the oldest day drops automatically.
-    - cron: "17 0 * * *"
+    # GitHub checks the profile data every 30 minutes.
+    # The generated calendar remains exactly 365 days wide.
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: github-profile-data
+  cancel-in-progress: true
 
 jobs:
   update-profile-data:
@@ -41,7 +45,7 @@ jobs:
           git add assets/github-contributions.svg assets/github-overview.svg
 
           if git diff --cached --quiet; then
-            echo "No profile data changes."
+            echo "No profile data changes since the last run."
           else
             git commit -m "chore: update rolling GitHub activity"
             git push origin HEAD:main
