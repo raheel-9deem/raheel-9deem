@@ -8,5 +8,5 @@
 <text x="400" y="116" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Followers</text>
 <text x="690" y="91" fill="#00bcd4" font-family="Arial,sans-serif" font-size="25" font-weight="700">3</text>
 <text x="690" y="116" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Following</text>
-<text x="500" y="145" text-anchor="middle" fill="#6e7681" font-family="Arial,sans-serif" font-size="10">Refreshed automatically by GitHub Actions.</text>
+<text x="500" y="145" text-anchor="middle" fill="#6e7681" font-family="Arial,sans-serif" font-size="10">Generated automatically by GitHub Actions.</text>
 </svg>
