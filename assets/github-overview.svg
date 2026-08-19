@@ -2,7 +2,7 @@
 <rect width="1000" height="155" rx="18" fill="#0d1117"/>
 <text x="36" y="38" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">GitHub Overview</text>
 <line x1="36" y1="57" x2="964" y2="57" stroke="#30363d"/>
-<text x="110" y="91" fill="#00bcd4" font-family="Arial,sans-serif" font-size="25" font-weight="700">32</text>
+<text x="110" y="91" fill="#00bcd4" font-family="Arial,sans-serif" font-size="25" font-weight="700">33</text>
 <text x="110" y="116" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Public repositories</text>
 <text x="400" y="91" fill="#00bcd4" font-family="Arial,sans-serif" font-size="25" font-weight="700">3</text>
 <text x="400" y="116" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Followers</text>
