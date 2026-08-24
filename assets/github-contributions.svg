@@ -3,7 +3,7 @@
 <text x="32" y="38" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="24" font-weight="700">GitHub Activity</text>
 <line x1="32" y1="57" x2="1136" y2="57" stroke="#30363d"/>
 <text x="32" y="80" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Rolling last 365 days · 224 commits · 31 active days</text>
-<text x="32" y="98" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">2025-08-24 → 2026-08-23 · 30 non-fork repositories · UTC commit dates</text>
+<text x="32" y="98" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">2025-08-25 → 2026-08-24 · 30 non-fork repositories · UTC commit dates</text>
 <text x="90" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Sep</text>
 <text x="170" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Oct</text>
 <text x="250" y="120" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Nov</text>
@@ -20,7 +20,7 @@
 <text x="38" y="160" fill="#8b949e" font-family="Arial,sans-serif" font-size="9">Tue</text>
 <text x="38" y="200" fill="#8b949e" font-family="Arial,sans-serif" font-size="9">Thu</text>
 <text x="38" y="240" fill="#8b949e" font-family="Arial,sans-serif" font-size="9">Sat</text>
-<g><title>2025-08-24 — 0 commits</title><rect x="70" y="108" width="16" height="16" rx="3" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<g><title>2025-08-24 — outside 365-day window</title><rect x="70" y="108" width="16" height="16" rx="3" fill="#0d1117" stroke="#0d1117" stroke-width="0.5"/>
 </g>
 <g><title>2025-08-25 — 0 commits</title><rect x="70" y="128" width="16" height="16" rx="3" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
 </g>
@@ -781,7 +781,7 @@
 <g><title>2026-08-23 — 1 commit</title><rect x="1110" y="108" width="16" height="16" rx="3" fill="#0e4429" stroke="#30363d" stroke-width="0.5"/>
 <text x="1118.0" y="119.5" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="8" font-weight="700">1</text>
 </g>
-<g><title>2026-08-24 — outside 365-day window</title><rect x="1110" y="128" width="16" height="16" rx="3" fill="#0d1117" stroke="#0d1117" stroke-width="0.5"/>
+<g><title>2026-08-24 — 0 commits</title><rect x="1110" y="128" width="16" height="16" rx="3" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
 </g>
 <g><title>2026-08-25 — outside 365-day window</title><rect x="1110" y="148" width="16" height="16" rx="3" fill="#0d1117" stroke="#0d1117" stroke-width="0.5"/>
 </g>
